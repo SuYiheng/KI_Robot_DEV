@@ -1,2 +1,2 @@
-# KI_Robot_LAB
-KI_Robot laboratory edition.
+# KI_Robot_DEV
+KI_Robot developer edition.
